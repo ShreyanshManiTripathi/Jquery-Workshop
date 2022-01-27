@@ -1,0 +1,23 @@
+.loginform{
+    background-color: cyan;
+    width:400px;
+}
+
+ body {
+ background-image: url("books.jpeg");
+ background-color: #cccccc;
+} 
+
+.heading{
+    position: absolute;
+    left:500px;
+    top:100px;
+    color: white;
+}
+
+ form{
+    position: absolute;
+    left: 500px;
+    top:200px;
+} 
+
